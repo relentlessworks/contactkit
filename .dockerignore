@@ -1,0 +1,9 @@
+.git
+.github
+docs
+*.md
+LICENSE
+VERSION
+Makefile
+contactkit
+contactkit-data.json
