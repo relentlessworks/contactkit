@@ -1,6 +1,6 @@
 # Build artifacts
-contactkit
-contactkit-data.json
+/contactkit
+/contactkit-data.json
 *.exe
 *.dll
 *.so
